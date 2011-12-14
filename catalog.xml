@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : catalog.xml
+    Created on : 12 Δεκέμβριος 2011, 4:21 μμ
+    Author     : afroditi
+    Description:
+        Purpose of the document follows.
+-->
+
+<products>
+    <product id="1">
+        <name>Cafe</name>
+        <price>18.50</price>
+    </product>
+    <product id="2">
+        <name>Sugar</name>
+        <price>6.95</price>
+    </product>
+    <product id="3">
+        <name>Water</name>
+        <price>1.29</price>
+    </product>
+</products>
